@@ -1,5 +1,5 @@
 
-## Exercício de Casa
+## Exercício de Casa @CubosAcademy
 
 - `Hello Word` com javascript usando Node.
 - Usar o git para versionamento do código para o github.
